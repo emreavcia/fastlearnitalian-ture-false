@@ -1,4 +1,4 @@
-[logo image](/images/logo.png)
+![logo image](/images/logo.png)
 
 ### Advertisement
 
