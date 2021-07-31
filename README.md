@@ -2,20 +2,20 @@
 
 ### Advertisement
 
--Grammer
--Reading 
--Verb Conjugation
--Learn Words
--Excercises
-    -Test
-    -Verb Conjugations
-    -True or False
-    -Fill the blank
-    -Matching 
-    -Matching with images 
-    -Matching with image
-    -Order the sentences
-    -Word finding with Syllables
+- Grammer
+- Reading 
+- Verb Conjugation
+- Learn Words
+- Excercises
+    - Test
+    - Verb Conjugations
+    - True or False
+    - Fill the blank
+    - Matching 
+    - Matching with images 
+    - Matching with image
+    - Order the sentences
+    - Word finding with Syllables
 
 ## Come mangiano i ticinesi
  
@@ -25,7 +25,7 @@ Il pomeriggio, i bambini e i ragazzi fanno merenda: mangiano un frutto o pane e 
 
 Il dolce tipico ticinese è la torta di pane che si prepara con il pane secco, il latte, le uova e l’uvetta secca. In autunno si prepara anche la torta di castagne che dà molta energia.
 
-### Vero o Falso? ###Score:
+### Vero o Falso? ### Score:
   `let scoreSpan = document.getElementById("score-span"); scoreSpan.innerText = iteration;`/`totalNumberOfQuestions.innerHTML = test.length;`
 
 	|  | V | F |
