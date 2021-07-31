@@ -25,7 +25,7 @@
 
 3 Ciao a tutti! Sono Michele Morelli e ho 54 anni. Sono medico e lavoro in un ospedale. Il mio lavoro è molto pesante, ma mi piace tantissimo. È bello curare i malati e aiutare le persone che hanno bisogno. Sono sposato con Federica che fa la segretaria in uno studio di avvocati. Abbiamo quattro figli: il maggiore è sposato e lavora in banca, le due figlie gemelle studiano architettura. Il figlio minore va ancora al liceo. Da grande vuole fare il giudice. Ho poco tempo libero, ma nelle vacanze mi piace viaggiare con la mia famiglia o andare in montagna.
 
-### Vero o Falso? ### Score:
+### Vero o Falso? <br />¬ ### Score:
   `let scoreSpan = document.getElementById("score-span"); scoreSpan.innerText = iteration;`/`totalNumberOfQuestions.innerHTML = test.length;`
 
 	|  | V | F |
