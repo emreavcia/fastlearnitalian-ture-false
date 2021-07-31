@@ -27,7 +27,9 @@
 
 ### Vero o Falso? 
 ### Score:
-  `let scoreSpan = document.getElementById("score-span"); scoreSpan.innerText = iteration;`/`totalNumberOfQuestions.innerHTML = test.length;`
+  ```
+  let scoreSpan = document.getElementById("score-span"); scoreSpan.innerText = iteration;`/`totalNumberOfQuestions.innerHTML = test.length;
+  ```
 
 	|  | V | F |
 | ----------- | ----------- |
