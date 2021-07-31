@@ -31,7 +31,8 @@
 	|  | V | F |
 | ----------- | ----------- |
 | questions | V |  V |
- `let test = [
+ ```
+ let test = [
     {
         question:"Laura è nubile.", 
         veroOrFalso:"F"
@@ -74,7 +75,7 @@
     {
         question:"Michele preferisce viaggiare da solo.", veroOrFalso: "F"
     }
-];`
+];```
 
 
 
